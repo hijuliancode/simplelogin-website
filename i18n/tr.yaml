@@ -1,7 +1,35 @@
-header_login: Oturum aç #header
-header_signup: Hesap aç
+# header
+header_login: Oturum aç
+header_signup: Ücretsiz hesap oluştur
 header_pricing: Ücretler
-hero: E-postaları anonim olarak gönderip alın #hero section
+header_menu_features: Özellikler
+header_menu_resources: Kaynaklar
+
+header_feature_email_aliases: E-posta Takma Adları
+header_feature_email_aliases_desc: Gelen kutunuzu anonim e-posta adresleri ile koruyun
+header_feature_custom_domains: Özel Alan Adları
+header_feature_custom_domains_desc: Kendi alan adınızı kullanarak takma adlar oluşturun
+header_feature_browser_extensions: Tarayıcı Uzantıları
+header_feature_browser_extensions_desc: Chrome, Firefox, Edge veya Safari'den tek tıkla takma adlar oluşturun
+header_feature_signin_with_sl: SimpleLogin ile Giriş Yap
+header_feature_signin_with_sl_desc: Uygulamanız veya web siteniz için gizlilik odaklı giriş düğmesi
+
+header_resource_blog: Blog
+header_resource_blog_desc: Ekibimizden hikayeler, ipuçları ve gizlilik rehberleri
+header_resource_documentation: Dokümantasyon
+header_resource_documentation_desc: SimpleLogin'den en iyi şekilde yararlanın
+header_resource_faq: SSS
+header_resource_faq_desc: En yaygın soruların yanıtları
+header_resource_forum: Forum
+header_resource_forum_desc: Özellikleri tartışın, sorular sorun, en iyi uygulamaları paylaşın
+header_resource_github: GitHub
+header_resource_github_desc: Açık kaynak kodumuzu inceleyin ve katkıda bulunun
+header_resource_status: Durum
+header_resource_status_desc: Hizmetin çalışma süresini ve olayları kontrol edin
+header_resource_comparisons: Karşılaştırmalar
+
+#hero section
+hero: E-postaları anonim olarak gönderip alın
 hero_desc: >
   <em data-toggle="tooltip" data-html="true" title="Bir e-posta takma adı (ya da kısaca takma ad) e-postaları <b>saklamayan</b> bir e-posta adresidir. Bir takma ada gönderilen tüm e-postalar kişisel e-postanıza iletilir.">E-posta takma adları</em>, çevrim içi anonim olabilir ve gelen kutunuzu istenmeyen e-posta ve oltalama saldırılarına karşı koruyabilirsiniz. <a href="https://github.com/simple-login/">Açık kaynaklı</a>. Avrupa'da geliştirildi ve barındırılıyor.
 hero_cta: >

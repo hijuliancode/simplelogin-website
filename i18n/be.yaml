@@ -1,7 +1,35 @@
-header_login: Уваход #header
-header_signup: Рэгістрацыя
+# header
+header_login: Уваход
+header_signup: Стварыць бясплатны рахунак
 header_pricing: Цэны
-hero: Ананімна атрымлівайце і адпраўляйце лісты #hero section
+header_menu_features: Функцыі
+header_menu_resources: Рэсурсы
+
+header_feature_email_aliases: Псеўданімы электроннай пошты
+header_feature_email_aliases_desc: Абароніце сваю паштовую скрыню з дапамогай ананімных адрасоў электроннай пошты
+header_feature_custom_domains: Уласныя дамены
+header_feature_custom_domains_desc: Выкарыстоўвайце свой уласны дамен для стварэння псеўданімаў
+header_feature_browser_extensions: Расшырэнні для браўзера
+header_feature_browser_extensions_desc: Стварайце псеўданімы адным клікам з Chrome, Firefox, Edge або Safari
+header_feature_signin_with_sl: Увайсці з SimpleLogin
+header_feature_signin_with_sl_desc: Кнопка ўваходу з прыярытэтам канфідэнцыяльнасці для вашага прыкладання або сайта
+
+header_resource_blog: Блог
+header_resource_blog_desc: Гісторыі, парады і кіраўніцтва па прыватнасці ад нашай каманды
+header_resource_documentation: Дакументацыя
+header_resource_documentation_desc: Атрымайце максімальную карысць ад SimpleLogin
+header_resource_faq: Часта задаваныя пытанні
+header_resource_faq_desc: Адказы на найбольш распаўсюджаныя пытанні
+header_resource_forum: Форум
+header_resource_forum_desc: Абмяркоўвайце функцыі, задавайце пытанні, дзяліцеся лепшымі практыкамі
+header_resource_github: GitHub
+header_resource_github_desc: Праглядзіце наш адкрыты зыходны код і ўнясіце свой уклад
+header_resource_status: Статус
+header_resource_status_desc: Праверце час працы службы і інцыдэнты
+header_resource_comparisons: Параўнанні
+
+#hero section
+hero: Ананімна атрымлівайце і адпраўляйце лісты
 hero_desc: >
   З дапамогай  <em data-toggle="tooltip" data-html="true" title="Псеўданім электроннай пошты (ці проста псеўданім) гэта адрэс электроннай пошты, які <b>не захоўвае</b> лісты: усе лісты, якія адпраўлены на псеўданім, перасылаюцца на вашу асабістую электронную пошту.">псеўданімы электроннай пошты</em>, вы можаце быць ананімнымі ў інтэрнэце і абараняць сваю паштовую скрыню ад спама і фішынга. <a href="https://github.com/simple-login/">Адкрыты зыходны код</a>. Зроблена і размяшчаецца ў Еўропе.
 hero_cta: >

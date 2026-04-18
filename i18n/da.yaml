@@ -1,7 +1,35 @@
-header_login: Log ind #header
-header_signup: Tilmeld dig
+# header
+header_login: Log ind
+header_signup: Opret en gratis konto
 header_pricing: Priser
-hero: Modtag og send e-mails anonymt #hero section
+header_menu_features: Funktioner
+header_menu_resources: Ressourcer
+
+header_feature_email_aliases: -mail-aliasser
+header_feature_email_aliases_desc: Beskyt din indbakke med anonyme e-mailadresser
+header_feature_custom_domains: Egen domæne
+header_feature_custom_domains_desc: Brug dit eget domæne til at oprette aliasser
+header_feature_browser_extensions: Browserudvidelser
+header_feature_browser_extensions_desc: Opret aliasser med et enkelt klik fra Chrome, Firefox, Edge eller Safari
+header_feature_signin_with_sl: Log ind med SimpleLogin
+header_feature_signin_with_sl_desc: Privatlivsfokuseret login-knap til din app eller hjemmeside
+
+header_resource_blog: Blog
+header_resource_blog_desc: Historier, tips og vejledninger om privatliv fra vores team
+header_resource_documentation: Dokumentation
+header_resource_documentation_desc: Få mest muligt ud af SimpleLogin
+header_resource_faq: FAQ
+header_resource_faq_desc: Svar på de mest almindelige spørgsmål
+header_resource_forum: Forum
+header_resource_forum_desc: Diskuter funktioner, stil spørgsmål, del bedste praksis
+header_resource_github: GitHub
+header_resource_github_desc: Gennemse vores open-source kode og bidrag
+header_resource_status: Status
+header_resource_status_desc: Tjek service oppetid og hændelser
+header_resource_comparisons: Sammenligninger
+
+#hero section
+hero: Modtag og send e-mails anonymt
 hero_desc: >
   Med <em data-toggle="tooltip" data-html="true" title="Et e-mail-alias (også blot kaldet et alias) er en e-mailadresse, som <b>ikke opbevarer</b> e-mails: Alle e-mails, der sendes til et alias, videresendes til din personlige e-mail.">e-mail-aliasser</em>, du kan være anonym online og beskytte din indbakke mod spams og phishing. <a href="https://github.com/simple-login/">Open source</a>. Lavet og hostet i Europa.
 hero_cta: >

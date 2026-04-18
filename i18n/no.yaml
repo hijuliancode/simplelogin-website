@@ -1,7 +1,35 @@
-header_login: Logg på #header
-header_signup: Registrer deg
+# header
+header_login: Logg på
+header_signup: Opprett en gratis konto
 header_pricing: Priser
-hero: Motta og send e-post anonymt #hero section
+header_menu_features: Funksjoner
+header_menu_resources: Ressurser
+
+header_feature_email_aliases: E-postaliaser
+header_feature_email_aliases_desc: Beskytt innboksen din med anonyme e-postadresser
+header_feature_custom_domains: Tilpassede domener
+header_feature_custom_domains_desc: Bruk ditt eget domene for å opprette aliaser
+header_feature_browser_extensions: Nettleserutvidelser
+header_feature_browser_extensions_desc: Opprett aliaser med ett klikk fra Chrome, Firefox, Edge eller Safari
+header_feature_signin_with_sl: Logg inn med SimpleLogin
+header_feature_signin_with_sl_desc: Personvern-fokusert innloggingsknapp for appen eller nettstedet ditt
+
+header_resource_blog: Blog
+header_resource_blog_desc: Historier, tips og personvernveiledninger fra vårt team
+header_resource_documentation: Dokumentasjon
+header_resource_documentation_desc: Få mest mulig ut av SimpleLogin
+header_resource_faq: FAQ
+header_resource_faq_desc: Svar på de vanligste spørsmålene
+header_resource_forum: Forum
+header_resource_forum_desc: Diskuter funksjoner, still spørsmål, del beste praksis
+header_resource_github: GitHub
+header_resource_github_desc: Se vår åpen kildekode og bidra
+header_resource_status: Status
+header_resource_status_desc: Sjekk tjenestens oppetid og hendelser
+header_resource_comparisons: Sammenligninger
+
+#hero section
+hero: Motta og send e-post anonymt
 hero_desc: >
   Med <em data-toggle="tooltip" data-html="true" title="en e-postalias (eller alias) er en e-postadresse som <b>ikke lagrer</b>e-poster: alle e-postmeldinger som sendes til et alias, videresendes til din personlige e-postadresse.">e-postaliaser</em>, du kan være anonym på nettet og beskytte innboksen din mot søppelpost og nettfisking.<a href="https://github.com/simple-login/">Åpen kildekode</a>Laget og vertet i Europa.
 hero_cta: >
