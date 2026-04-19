@@ -30,9 +30,13 @@ header_resource_comparisons: Sammenligninger
 
 #hero section
 hero: Motta og send e-post anonymt
+hero_highlight_word: anonymt
+hero_cta_secondary: Slik fungerer det
+hero_stat_value: 1 000 000+
+hero_stat_label: fornøyde brukere
 hero_desc: >
-  Med <em data-toggle="tooltip" data-html="true" title="en e-postalias (eller alias) er en e-postadresse som <b>ikke lagrer</b>e-poster: alle e-postmeldinger som sendes til et alias, videresendes til din personlige e-postadresse.">e-postaliaser</em>, du kan være anonym på nettet og beskytte innboksen din mot søppelpost og nettfisking.<a href="https://github.com/simple-login/">Åpen kildekode</a>Laget og vertet i Europa.
-hero_cta: >
+  Med <em data-toggle="tooltip" data-html="true" title="en e-postalias (eller alias) er en e-postadresse som <b>ikke lagrer</b>e-poster: alle e-postmeldinger som sendes til et alias, videresendes til din personlige e-postadresse.">e-postaliaser</em>, du kan være anonym på nettet og beskytte innboksen din mot søppelpost og nettfisking.<a href="https://github.com/simple-login/" target="_blank" rel="noopener noreferrer">Åpen kildekode</a>Laget og vertet i Europa.
+hero_cta: Få aliasene dine gratis
 
 hero_button_underline: <b>1,000,000+</b> aliaser opprettet.
 seen_on: Anbefalt av

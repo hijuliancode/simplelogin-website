@@ -30,9 +30,13 @@ header_resource_comparisons: Comparații
 
 #hero section
 hero: Primiți și trimiteți mesaje anonim
+hero_highlight_word: anonim
+hero_cta_secondary: Cum funcționează
+hero_stat_value: 1.000.000+
+hero_stat_label: utilizatori mulțumiți
 hero_desc: >
-  Cu <em data-toggle="tooltip" data-html="true" title="Un alias de e-mail (sau alias pe scurt) este o adresă de e-mail care <b>nu stochează</b> mesajele: toate mesajele trimise către un alias sunt redirecționate către adresa de e-mail personală.">aliasuri de e-mail</em>, vă păstrați anonimitatea online și vă puteți proteja adresa de e-mail împotriva mesajelor nedorite și a înșelăciunilor. <a href="https://github.com/simple-login/">Cu sursa publică</a>. Creat și găzduit în Europa.
-hero_cta: >
+  Cu <em data-toggle="tooltip" data-html="true" title="Un alias de e-mail (sau alias pe scurt) este o adresă de e-mail care <b>nu stochează</b> mesajele: toate mesajele trimise către un alias sunt redirecționate către adresa de e-mail personală.">aliasuri de e-mail</em>, vă păstrați anonimitatea online și vă puteți proteja adresa de e-mail împotriva mesajelor nedorite și a înșelăciunilor. <a href="https://github.com/simple-login/" target="_blank" rel="noopener noreferrer">Cu sursa publică</a>. Creat și găzduit în Europa.
+hero_cta: Obține aliasurile tale gratuit
 
 hero_button_underline: <b>Peste 800.000</b> de aliasuri create.
 seen_on: Recomandat de

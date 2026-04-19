@@ -30,9 +30,13 @@ header_resource_comparisons: Comparações
 
 #hero section
 hero: Receba e envie e-mails anonimamente
+hero_highlight_word: anonimamente
+hero_cta_secondary: Como funciona
+hero_stat_value: 1.000.000+
+hero_stat_label: usuários satisfeitos
 hero_desc: >
-  Com  <em data-toggle="tooltip" data-html="true" title="Um alias de email (ou alias para abreviar) é um endereço de e-mail que <b>não armazena</b> e-mails: todos os emails enviados a um alias de e-mail são encaminhados para o seu e-mail pessoal.">aliases de e-mail</em>, você pode permanecer anônimo on-line e proteger sua caixa de entrada contra spam e phishing. <a href="https://github.com/simple-login/">Código aberto</a>. Feito e hospedado na Europa.
-hero_cta: >
+  Com  <em data-toggle="tooltip" data-html="true" title="Um alias de email (ou alias para abreviar) é um endereço de e-mail que <b>não armazena</b> e-mails: todos os emails enviados a um alias de e-mail são encaminhados para o seu e-mail pessoal.">aliases de e-mail</em>, você pode permanecer anônimo on-line e proteger sua caixa de entrada contra spam e phishing. <a href="https://github.com/simple-login/" target="_blank" rel="noopener noreferrer">Código aberto</a>. Feito e hospedado na Europa.
+hero_cta: Tenha seus aliases grátis
 
 hero_button_underline: <b>800.000+</b> alias criados.
 seen_on: Recomendado por
