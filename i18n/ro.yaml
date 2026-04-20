@@ -1,35 +1,7 @@
-# header
-header_login: Autentificare
-header_signup: Creează un cont gratuit
+header_login: Autentificare #header
+header_signup: Înscriere
 header_pricing: Prețuri
-header_menu_features: Caracteristici
-header_menu_resources: Resurse
-
-header_feature_email_aliases: Aliasuri de e-mail
-header_feature_email_aliases_desc: Protejați-vă inboxul cu adrese de e-mail anonime
-header_feature_custom_domains: Domenii personalizate
-header_feature_custom_domains_desc: Folosiți propriul domeniu pentru a crea aliasuri
-header_feature_browser_extensions: Extensii pentru browser
-header_feature_browser_extensions_desc: Creați aliasuri cu un singur clic din Chrome, Firefox, Edge sau Safari
-header_feature_signin_with_sl: Autentificare cu SimpleLogin
-header_feature_signin_with_sl_desc: Buton de autentificare axat pe confidențialitate pentru aplicația sau site-ul dvs.
-
-header_resource_blog: Blog
-header_resource_blog_desc: Povești, sfaturi și ghiduri de confidențialitate de la echipa noastră
-header_resource_documentation: Documentație
-header_resource_documentation_desc: Profitați la maximum de SimpleLogin
-header_resource_faq: Întrebări frecvente
-header_resource_faq_desc: Răspunsuri la cele mai frecvente întrebări
-header_resource_forum: Forum
-header_resource_forum_desc: Discutați despre funcționalități, puneți întrebări, împărtășiți cele mai bune practici
-header_resource_github: GitHub
-header_resource_github_desc: Revizuiți codul nostru open-source și contribuiți
-header_resource_status: Status
-header_resource_status_desc: Verificați timpul de funcționare și incidentele serviciului
-header_resource_comparisons: Comparații
-
-#hero section
-hero: Primiți și trimiteți mesaje anonim
+hero: Primiți și trimiteți mesaje anonim #hero section
 hero_desc: >
   Cu <em data-toggle="tooltip" data-html="true" title="Un alias de e-mail (sau alias pe scurt) este o adresă de e-mail care <b>nu stochează</b> mesajele: toate mesajele trimise către un alias sunt redirecționate către adresa de e-mail personală.">aliasuri de e-mail</em>, vă păstrați anonimitatea online și vă puteți proteja adresa de e-mail împotriva mesajelor nedorite și a înșelăciunilor. <a href="https://github.com/simple-login/">Cu sursa publică</a>. Creat și găzduit în Europa.
 hero_cta: >

@@ -1,35 +1,7 @@
-# header
-header_login: Iniciar sessão
-header_signup: Criar uma conta gratuita
+header_login: Iniciar sessão #header
+header_signup: Criar conta
 header_pricing: Preços
-header_menu_features: Características
-header_menu_resources: Recursos
-
-header_feature_email_aliases: Aliases de Email
-header_feature_email_aliases_desc: Proteja sua caixa de entrada com endereços de e-mail anônimos
-header_feature_custom_domains: Domínios Personalizados
-header_feature_custom_domains_desc: Use seu próprio domínio para criar aliases
-header_feature_browser_extensions: Extensões de Navegador
-header_feature_browser_extensions_desc: Crie aliases com um clique no Chrome, Firefox, Edge ou Safari
-header_feature_signin_with_sl: Entrar com SimpleLogin
-header_feature_signin_with_sl_desc: Botão de login focado em privacidade para seu aplicativo ou site
-
-header_resource_blog: Blog
-header_resource_blog_desc: Histórias, dicas e guias de privacidade da nossa equipe
-header_resource_documentation: Documentação
-header_resource_documentation_desc: Aproveite ao máximo o SimpleLogin
-header_resource_faq: FAQ
-header_resource_faq_desc: Respostas às perguntas mais comuns
-header_resource_forum: Fórum
-header_resource_forum_desc: Discuta recursos, faça perguntas, compartilhe melhores práticas
-header_resource_github: GitHub
-header_resource_github_desc: Revise nosso código aberto e contribua
-header_resource_status: Status
-header_resource_status_desc: Verifique o tempo de atividade e incidentes do serviço
-header_resource_comparisons: Comparações
-
-#hero section
-hero: Receba e envie e-mails anonimamente
+hero: Receba e envie e-mails anonimamente #hero section
 hero_desc: >
   Com  <em data-toggle="tooltip" data-html="true" title="Um alias de email (ou alias para abreviar) é um endereço de e-mail que <b>não armazena</b> e-mails: todos os emails enviados a um alias de e-mail são encaminhados para o seu e-mail pessoal.">aliases de e-mail</em>, você pode permanecer anônimo on-line e proteger sua caixa de entrada contra spam e phishing. <a href="https://github.com/simple-login/">Código aberto</a>. Feito e hospedado na Europa.
 hero_cta: >

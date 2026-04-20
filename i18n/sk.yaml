@@ -1,35 +1,7 @@
-# header
-header_login: Prihlásiť sa
-header_signup: Vytvoriť bezplatný účet
+header_login: Prihlásiť sa #header
+header_signup: Zaregistrovať sa
 header_pricing: Cenník
-header_menu_features: Funkcie
-header_menu_resources: Zdroje
-
-header_feature_email_aliases: Emailové aliasy
-header_feature_email_aliases_desc: Chráňte svoju doručenú poštu pomocou anonymných emailových adries
-header_feature_custom_domains: Vlastné domény
-header_feature_custom_domains_desc: Použite svoju vlastnú doménu na vytváranie aliasov
-header_feature_browser_extensions: Rozšírenia pre prehliadač
-header_feature_browser_extensions_desc: Vytvárajte aliasy jedným kliknutím z Chrome, Firefox, Edge alebo Safari
-header_feature_signin_with_sl: Prihlásiť sa s SimpleLogin
-header_feature_signin_with_sl_desc: Tlačidlo na prihlásenie zamerané na ochranu súkromia pre vašu aplikáciu alebo web
-
-header_resource_blog: Blog
-header_resource_blog_desc: Príbehy, tipy a návody na ochranu súkromia od nášho tímu
-header_resource_documentation: Dokumentácia
-header_resource_documentation_desc: Využite SimpleLogin na maximum
-header_resource_faq: Často kladené otázky
-header_resource_faq_desc: Odpovede na najčastejšie otázky
-header_resource_forum: Fórum
-header_resource_forum_desc: Diskutujte o funkciách, kladte otázky, zdieľajte najlepšie postupy
-header_resource_github: GitHub
-header_resource_github_desc: Prezrite si náš open-source kód a prispievajte
-header_resource_status: Stav
-header_resource_status_desc: Skontrolujte dostupnosť služby a incidenty
-header_resource_comparisons: Porovnania
-
-#hero section
-hero: Prijímajte a odosielajte emaily anonymne
+hero: Prijímajte a odosielajte emaily anonymne #hero section
 hero_desc: >
   S <em data-toggle="tooltip" data-html="true" title="Emailový alias (skrátene alias) je emailová adresa, ktorá <b>neukladá</b> emaily: všetky emaily odoslané na alias sa prepošlú na váš osobný email.">emailovými aliasmi</em> môžete zostať v anonymite a chrániť vašu doručenú poštu pred spamom a phishingom. <a href="https://github.com/simple-login/">Open source</a>. Vytvorené a hostované v Európe.
 hero_cta: >

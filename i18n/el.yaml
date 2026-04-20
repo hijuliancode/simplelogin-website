@@ -1,35 +1,7 @@
-# header
-header_login: Σύνδεση
-header_signup: Δημιουργία δωρεάν λογαριασμού
+header_login: Σύνδεση #header
+header_signup: Εγγραφή
 header_pricing: Τιμολόγηση
-header_menu_features: Χαρακτηριστικά
-header_menu_resources: Πόροι
-
-header_feature_email_aliases: Ψευδώνυμα Ηλεκτρονικού Ταχυδρομείου
-header_feature_email_aliases_desc: Προστατέψτε τα εισερχόμενά σας με ανώνυμες διευθύνσεις ηλεκτρονικού ταχυδρομείου
-header_feature_custom_domains: Προσαρμοσμένοι Τομείς
-header_feature_custom_domains_desc: Χρησιμοποιήστε τον δικό σας τομέα για να δημιουργήσετε ψευδώνυμα
-header_feature_browser_extensions: Επεκτάσεις Προγράμματος Περιήγησης
-header_feature_browser_extensions_desc: Δημιουργήστε ψευδώνυμα με ένα κλικ από το Chrome, Firefox, Edge ή Safari
-header_feature_signin_with_sl: Σύνδεση με SimpleLogin
-header_feature_signin_with_sl_desc: Κουμπί σύνδεσης με προτεραιότητα στην προστασία της ιδιωτικότητας για την εφαρμογή ή τον ιστότοπό σας
-
-header_resource_blog: Blog
-header_resource_blog_desc: Ιστορίες, συμβουλές και οδηγίες για την προστασία της ιδιωτικότητας από την ομάδα μας
-header_resource_documentation: Τεκμηρίωση
-header_resource_documentation_desc: Αξιοποιήστε στο έπακρο το SimpleLogin
-header_resource_faq: Συχνές Ερωτήσεις
-header_resource_faq_desc: Απαντήσεις στις πιο συχνές ερωτήσεις
-header_resource_forum: Forum
-header_resource_forum_desc: Συζητήστε χαρακτηριστικά, κάντε ερωτήσεις, μοιραστείτε βέλτιστες πρακτικές
-header_resource_github: GitHub
-header_resource_github_desc: Ελέγξτε τον ανοιχτό κώδικα μας και συνεισφέρετε
-header_resource_status: Κατάσταση
-header_resource_status_desc: Ελέγξτε τη διαθεσιμότητα της υπηρεσίας και τα περιστατικά
-header_resource_comparisons: Συγκρίσεις
-
-#hero section
-hero: Λήψη και αποστολή μηνυμάτων ηλεκτρονικού ταχυδρομείου ανώνυμα
+hero: Λήψη και αποστολή μηνυμάτων ηλεκτρονικού ταχυδρομείου ανώνυμα #hero section
 hero_desc: >
   Με το  <em data-toggle="tooltip" data-html="true" title="Ένα ψευδώνυμο ηλεκτρονικού ταχυδρομείου (ή ψευδώνυμο για συντομία) είναι μια διεύθυνση ηλεκτρονικού ταχυδρομείου που <b>δεν αποθηκεύει</b> μηνύματα ηλεκτρονικού ταχυδρομείου: όλα τα μηνύματα ηλεκτρονικού ταχυδρομείου που αποστέλλονται σε ένα ψευδώνυμο προωθούνται στο προσωπικό σας email.">ψευδώνυμα ηλεκτρονικού ταχυδρομείου</em>, μπορείτε να είστε ανώνυμοι στο διαδίκτυο και να προστατεύετε τα εισερχόμενά σας από ανεπιθύμητα μηνύματα και ηλεκτρονικό ψάρεμα. <a href="https://github.com/simple-login/">Ανοιχτού Κώδικα</a>. Κατασκευάζεται και φιλοξενείται στην Ευρώπη.
 hero_cta: >

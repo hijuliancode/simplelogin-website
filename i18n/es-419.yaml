@@ -1,35 +1,7 @@
-# header
-header_login: Iniciar sesión
-header_signup: Crear una cuenta gratuita
+header_login: Iniciar sesión #header
+header_signup: Registrarse
 header_pricing: Precios
-header_menu_features: Características
-header_menu_resources: Recursos
-
-header_feature_email_aliases: Alias de correo
-header_feature_email_aliases_desc: Proteja su buzón con direcciones de correo anónimas
-header_feature_custom_domains: Dominios personalizados
-header_feature_custom_domains_desc: Use su propio dominio para crear alias
-header_feature_browser_extensions: Extensiones de navegador
-header_feature_browser_extensions_desc: Cree alias con un solo clic desde Chrome, Firefox, Edge o Safari
-header_feature_signin_with_sl: Iniciar sesión con SimpleLogin
-header_feature_signin_with_sl_desc: Botón de inicio de sesión centrado en la privacidad para su aplicación o sitio web
-
-header_resource_blog: Blog
-header_resource_blog_desc: Historias, consejos y guías de privacidad de nuestro equipo
-header_resource_documentation: Documentación
-header_resource_documentation_desc: Aproveche al máximo SimpleLogin
-header_resource_faq: Preguntas frecuentes
-header_resource_faq_desc: Respuestas a las preguntas más comunes
-header_resource_forum: Foro
-header_resource_forum_desc: Discuta funciones, haga preguntas, comparta las mejores prácticas
-header_resource_github: GitHub
-header_resource_github_desc: Revise nuestro código abierto y contribuya
-header_resource_status: Estado
-header_resource_status_desc: Verifique el tiempo de actividad del servicio y los incidentes
-header_resource_comparisons: Comparaciones
-
-#hero section
-hero: Reciba y envíe correos anónimamente
+hero: Reciba y envíe correos anónimamente #hero section
 hero_desc: >
   Con los <em data-toggle="tooltip" data-html="true" title="Un alias de correo (o alias para abreviar) es una dirección de correo que <b>no almacena</b> correos: todos los correos enviados a un alias son reenviados a su dirección de correo personal.">alias de correo</em>, puede ser anónimo en internet y proteger su buzón contra el spam y la suplantación de identidad. <a href="https://github.com/simple-login/">De código abierto</a>. Desarrollado y alojado en Europa.
 hero_cta: >

@@ -1,35 +1,7 @@
-# header
-header_login: Inloggen
-header_signup: Maak een gratis account
+header_login: Inloggen #header
+header_signup: Registreren
 header_pricing: Prijzen
-header_menu_features: Functies
-header_menu_resources: Bronnen
-
-header_feature_email_aliases: -mail Aliassen
-header_feature_email_aliases_desc: Bescherm uw inbox met anonieme e-mailadressen
-header_feature_custom_domains: Aangepaste Domeinen
-header_feature_custom_domains_desc: Gebruik uw eigen domein om aliassen te maken
-header_feature_browser_extensions: Browserextensies
-header_feature_browser_extensions_desc: Maak aliassen met één klik vanuit Chrome, Firefox, Edge of Safari
-header_feature_signin_with_sl: Inloggen met SimpleLogin
-header_feature_signin_with_sl_desc: Privacygerichte inlogknop voor uw app of website
-
-header_resource_blog: Blog
-header_resource_blog_desc: Verhalen, tips en privacygidsen van ons team
-header_resource_documentation: Documentatie
-header_resource_documentation_desc: Haal het meeste uit SimpleLogin
-header_resource_faq: FAQ
-header_resource_faq_desc: Antwoorden op de meest gestelde vragen
-header_resource_forum: Forum
-header_resource_forum_desc: Bespreek functies, stel vragen, deel best practices
-header_resource_github: GitHub
-header_resource_github_desc: Bekijk onze open-source code en draag bij
-header_resource_status: Status
-header_resource_status_desc: Controleer de uptime van de service en incidenten
-header_resource_comparisons: Vergelijkingen
-
-#hero section
-hero: Ontvang en verzend e-mails anoniem
+hero: Ontvang en verzend e-mails anoniem #hero section
 hero_desc: >
   Met  <em data-toggle="tooltip" data-html="true" title="Een e-mail alias (of in het kort alias) is een e-mailadres dat <b>geen e-mails opslaat</b>: alle e-mails die verzonden worden naar een alias worden doorgestuurd naar uw persoonlijke e-mail .">e-mail aliassen</em>, kunt u anoniem online zijn en uw postvak beschermen tegen spam en phishing. <a href="https://github.com/simple-login/">Open source</a>. Gemaakt en gehost in Europa.
 hero_cta: >
