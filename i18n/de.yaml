@@ -1,42 +1,10 @@
-# header
-header_login: Anmelden
-header_signup: Kostenloses Konto erstellen
+header_login: Anmelden #header
+header_signup: Registrieren
 header_pricing: Preise
-header_menu_features: Funktionen
-header_menu_resources: Ressourcen
-
-header_feature_email_aliases: -Mail-Aliasse
-header_feature_email_aliases_desc: Schütze deinen Posteingang mit anonymen E-Mail-Adressen
-header_feature_custom_domains: Eigene Domains
-header_feature_custom_domains_desc: Verwende deine eigene Domain, um Aliasse zu erstellen
-header_feature_browser_extensions: Browser-Erweiterungen
-header_feature_browser_extensions_desc: Erstelle Aliasse mit einem Klick in Chrome, Firefox, Edge oder Safari
-header_feature_signin_with_sl: Mit SimpleLogin anmelden
-header_feature_signin_with_sl_desc: Datenschutzorientierte Anmelde-Schaltfläche für deine App oder Website
-
-header_resource_blog: Blog
-header_resource_blog_desc: Geschichten, Tipps und Datenschutzanleitungen von unserem Team
-header_resource_documentation: Dokumentation
-header_resource_documentation_desc: Hol das Beste aus SimpleLogin heraus
-header_resource_faq: FAQ
-header_resource_faq_desc: Antworten auf die häufigsten Fragen
-header_resource_forum: Forum
-header_resource_forum_desc: Diskutiere Funktionen, stelle Fragen, teile Best Practices
-header_resource_github: GitHub
-header_resource_github_desc: Überprüfe unseren Open-Source-Code und trage bei
-header_resource_status: Status
-header_resource_status_desc: Überprüfe die Service-Verfügbarkeit und Vorfälle
-header_resource_comparisons: Vergleiche
-
-#hero section
-hero: Anonyme E-Mails empfangen und versenden
-hero_highlight_word: Anonyme
-hero_cta_secondary: So funktioniert's
-hero_stat_value: 1.000.000+
-hero_stat_label: zufriedene Nutzer
+hero: Anonyme E-Mails empfangen und versenden #hero section
 hero_desc: >
-  Mit <em data-toggle="tooltip" data-html="true" title="Ein E-Mail Alias (oder kurz Alias) ist eine E-Mail Adresse, die <b>keine E-Mails speichert</b>: Alle an ein Alias gesendeten E-Mails werden an deine persönliche E-Mail  Adresse weitergeleitet.">E-Mail Aliassen</em> kannst du online anonym bleiben und deinen Posteingang vor Spam und Phishing schützen. <a href="https://github.com/simple-login/" target="_blank" rel="noopener noreferrer">Open source</a>. Entwickelt und gehostet in Europa.
-hero_cta: Hol dir deine Aliasse kostenlos
+  Mit <em data-toggle="tooltip" data-html="true" title="Ein E-Mail Alias (oder kurz Alias) ist eine E-Mail Adresse, die <b>keine E-Mails speichert</b>: Alle an ein Alias gesendeten E-Mails werden an deine persönliche E-Mail  Adresse weitergeleitet.">E-Mail Aliassen</em> kannst du online anonym bleiben und deinen Posteingang vor Spam und Phishing schützen. <a href="https://github.com/simple-login/">Open source</a>. Entwickelt und gehostet in Europa.
+hero_cta: >
 
 hero_button_underline: <b>Mehr als 800.000</b> Aliasse erstellt.
 seen_on: Empfohlen von

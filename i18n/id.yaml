@@ -1,42 +1,10 @@
-# header
-header_login: Masuk
-header_signup: Buat akun gratis
+header_login: Masuk #header
+header_signup: Daftar
 header_pricing: Harga
-header_menu_features: Fitur
-header_menu_resources: Sumber Daya
-
-header_feature_email_aliases: Alias Surel
-header_feature_email_aliases_desc: Lindungi kotak masuk Anda dengan alamat surel anonim
-header_feature_custom_domains: Domain Kustom
-header_feature_custom_domains_desc: Gunakan domain Anda sendiri untuk membuat alias
-header_feature_browser_extensions: Ekstensi Peramban
-header_feature_browser_extensions_desc: Buat alias dengan satu klik dari Chrome, Firefox, Edge, atau Safari
-header_feature_signin_with_sl: Masuk dengan SimpleLogin
-header_feature_signin_with_sl_desc: Tombol masuk yang mengutamakan privasi untuk aplikasi atau situs web Anda
-
-header_resource_blog: Blog
-header_resource_blog_desc: Cerita, tips, dan panduan privasi dari tim kami
-header_resource_documentation: Dokumentasi
-header_resource_documentation_desc: Manfaatkan SimpleLogin secara maksimal
-header_resource_faq: FAQ
-header_resource_faq_desc: Jawaban untuk pertanyaan yang paling umum
-header_resource_forum: Forum
-header_resource_forum_desc: Diskusikan fitur, ajukan pertanyaan, bagikan praktik terbaik
-header_resource_github: GitHub
-header_resource_github_desc: Tinjau kode sumber terbuka kami dan berkontribusi
-header_resource_status: Status
-header_resource_status_desc: Periksa waktu aktif layanan dan insiden
-header_resource_comparisons: Perbandingan
-
-#hero section
-hero: Terima dan kirim surel secara anonim
-hero_highlight_word: anonim
-hero_cta_secondary: Cara kerjanya
-hero_stat_value: 1.000.000+
-hero_stat_label: pengguna puas
+hero: Terima dan kirim surel secara anonim #hero section
 hero_desc: >
-  Dengan <em data-toggle="tooltip" data-html="true" title="Sebuah alias surel (atau alias) adalah alamat surel yang <b>tidak menyimpan</b> surel: semua surel yang dikirim ke sebuah alias akan diteruskan ke surel pribadi Anda.">alias surel</em>, Anda bisa menjadi anonim secara daring dan melindungi kotak masuk Anda terhadap spam dan phishing. <a href="https://github.com/simple-login/" target="_blank" rel="noopener noreferrer">Bersumber terbuka</a>. Dibuat dan dihost di Eropa.
-hero_cta: Dapatkan alias Anda gratis
+  Dengan <em data-toggle="tooltip" data-html="true" title="Sebuah alias surel (atau alias) adalah alamat surel yang <b>tidak menyimpan</b> surel: semua surel yang dikirim ke sebuah alias akan diteruskan ke surel pribadi Anda.">alias surel</em>, Anda bisa menjadi anonim secara daring dan melindungi kotak masuk Anda terhadap spam dan phishing. <a href="https://github.com/simple-login/">Bersumber terbuka</a>. Dibuat dan dihost di Eropa.
+hero_cta: >
 
 hero_button_underline: <b>1,000,000+</b> alias telah dihasilkan.
 seen_on: Direkomendasikan oleh

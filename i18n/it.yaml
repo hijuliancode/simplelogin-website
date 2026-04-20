@@ -1,42 +1,10 @@
-# header
-header_login: Accedi
-header_signup: Crea un account gratuito
+header_login: Accedi #header
+header_signup: Registrati
 header_pricing: Prezzi
-header_menu_features: Funzionalità
-header_menu_resources: Risorse
-
-header_feature_email_aliases: Alias email
-header_feature_email_aliases_desc: Proteggi la tua casella di posta con indirizzi email anonimi
-header_feature_custom_domains: Domini personalizzati
-header_feature_custom_domains_desc: Usa il tuo dominio per creare alias
-header_feature_browser_extensions: Estensioni del browser
-header_feature_browser_extensions_desc: Crea alias con un clic da Chrome, Firefox, Edge o Safari
-header_feature_signin_with_sl: Accedi con SimpleLogin
-header_feature_signin_with_sl_desc: Pulsante di accesso incentrato sulla privacy per la tua app o sito web
-
-header_resource_blog: Blog
-header_resource_blog_desc: Storie, consigli e guide sulla privacy dal nostro team
-header_resource_documentation: Documentazione
-header_resource_documentation_desc: Sfrutta al massimo SimpleLogin
-header_resource_faq: FAQ
-header_resource_faq_desc: Risposte alle domande più frequenti
-header_resource_forum: Forum
-header_resource_forum_desc: Discuti le funzionalità, fai domande, condividi le migliori pratiche
-header_resource_github: GitHub
-header_resource_github_desc: Consulta il nostro codice open-source e contribuisci
-header_resource_status: Stato
-header_resource_status_desc: Controlla la disponibilità del servizio e gli incidenti
-header_resource_comparisons: Confronti
-
-#hero section
-hero: Ricevi e invia email in modo anonimo
-hero_highlight_word: anonimo
-hero_cta_secondary: Come funziona
-hero_stat_value: 1.000.000+
-hero_stat_label: utenti felici
+hero: Ricevi e invia email in modo anonimo #hero section
 hero_desc: >
-  Con <em data-toggle="tooltip" data-html="true" title="Un alias email (o alias in breve) è un indirizzo email che <b>non memorizza</b> le email: tutte le email inviate  a un alias vengono inoltrate alla tua email personale.">alias email</em>, puoi essere anonimo online e proteggere la tua casella di posta da spam e phishing.  <a href="https://github.com/simple-login/" target="_blank" rel="noopener noreferrer">Open source</a>.  Realizzato e ospitato in Europa.
-hero_cta: Ottieni i tuoi alias gratis
+  Con <em data-toggle="tooltip" data-html="true" title="Un alias email (o alias in breve) è un indirizzo email che <b>non memorizza</b> le email: tutte le email inviate  a un alias vengono inoltrate alla tua email personale.">alias email</em>, puoi essere anonimo online e proteggere la tua casella di posta da spam e phishing.  <a href="https://github.com/simple-login/">Open source</a>.  Realizzato e ospitato in Europa.
+hero_cta: >
 
 hero_button_underline: Più di <b>800.000</b> alias creati.
 seen_on: Consigliato da
